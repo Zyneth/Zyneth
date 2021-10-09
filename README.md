@@ -22,7 +22,7 @@ const resit = {
             py: ["Django", "Flask", "Bottle"],
         },
         frontEnd: {
-            js: ["React"],
+            js: ["React", "SAPUi5"],
         mobileApp: {
             native: ["Android Development", "IOS Development"]
         },
