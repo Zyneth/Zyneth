@@ -1,7 +1,7 @@
 <h2>Hi I'm Resit! <img src="https://i.imgur.com/WByRWl2.gif" width="50"></h2>
 <img align='right' src="https://c.tenor.com/no01nqqz-TYAAAAC/pochita-chainsaw-man.gif" width="300">
-<p><em>Software Engineer and Consultant at RealCore -<img src="https://emoji.gg/assets/emoji/9850_pop_pop_cat.gif" width="30"> 
-<p><em>Business Informatics at FOM <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer and Consultant at RealCore 
+<p><em>Business Informatics at FOM <img src="https://emoji.gg/assets/emoji/9850_pop_pop_cat.gif" width="30"> 
 </em></p>
 
 
