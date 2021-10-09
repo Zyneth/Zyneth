@@ -1,5 +1,5 @@
 <h2>Hi I'm Zyneth! <img src="https://i.imgur.com/WByRWl2.gif" width="50"></h2>
-<img align='right' src="https://c.tenor.com/no01nqqz-TYAAAAC/pochita-chainsaw-man.gif" width="300">
+<img align='right' src="https://c.tenor.com/no01nqqz-TYAAAAC/pochita-chainsaw-man.gif" width="250">
 <p><em>- Software Engineer and Consultant at RealCore 
 <p><em>- Business Informatics at FOM 
 </em></p>
