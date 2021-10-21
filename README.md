@@ -31,8 +31,7 @@ const zyneth = {
         misc: ["Firebase", "Socket.IO", "selenium"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Java / C# Development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "Java / C# Development"
 };
 ```
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://zyneth.de/)](https://zyneth.de/)
