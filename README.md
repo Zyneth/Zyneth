@@ -56,8 +56,6 @@ func _ready() -> void:
 
 <div align="center">
 
-<a href="https://zyneth.de"><img src="https://img.shields.io/badge/zyneth.de-1b2a5c?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-
 <sub>⟡ press <kbd>Start</kbd> to continue ⟡</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:6b3fa0,45:1b2a5c,100:0b1026" width="100%" />
