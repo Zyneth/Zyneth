@@ -1,37 +1,65 @@
-<h2>Hi I'm Zyneth! <img src="https://i.imgur.com/WByRWl2.gif" width="50"></h2>
-<img align='right' src="https://c.tenor.com/no01nqqz-TYAAAAC/pochita-chainsaw-man.gif" width="250">
-<p><em>- Software Engineer and Consultant
-<p><em>- Business Informatics 
-</em></p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0b1026,55:1b2a5c,100:6b3fa0&text=ZYNETH&fontColor=e8e6ff&fontSize=64&fontAlignY=38&desc=software%20engineer%20%C2%B7%20game%20developer&descSize=18&descAlignY=60" width="100%" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=9F8CFF&center=true&vCenter=true&width=560&lines=%3E+building+worlds+one+pixel+at+a+time;%3E+backend+by+day%2C+Godot+by+night;%3E+current+quest%3A+%5BCLASSIFIED%5D;%3E+loading+next+level..." alt="typing" />
 
+</div>
 
+---
 
+### 🔒 Current quest
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...<img src="https://emoji.gg/assets/emoji/9850_pop_pop_cat.gif" width="30">            
+```text
+QUEST LOG
+ > title ........ [ CLASSIFIED ]
+ > genre ........ pixel art / adventure
+ > engine ....... Godot 4
+ > status ....... in development [####------]
 
-```javascript
-const zyneth = {
-    gender: "male",
-    code: ["JavaScript", "Python", "Java", "C#", "SQL"],
-    askMeAbout: ["web dev", "tech", "app dev", "api", "interfaces", "cryptotechnology"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Express", "SpringBoot"],
-            py: ["Django", "Flask", "Bottle"],
-        },
-        frontEnd: {
-            js: ["React", "SAPUi5"],
-        mobileApp: {
-            native: ["Android Development", "IOS Development"]
-        },
-        devOps: ["AWS", "Docker🐳","Nginx"],
-        databases: ["mongo", "MySql", "SAP S4 Hana"],
-        misc: ["Firebase", "Socket.IO", "selenium"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Java / C# Development"
-};
+ more soon. maybe. _
 ```
-[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://zyneth.de/)](https://zyneth.de/)
+
+---
+
+### 🎮 Player card
+
+```gdscript
+class_name Zyneth
+extends Developer
+
+@export var role       := "Software Engineer & Consultant"
+@export var side_quest := "Indie Game Developer"
+@export var origin     := "Business Informatics"
+
+var main_quest := "[CLASSIFIED]"        # Godot 4 · GDScript · Blender
+var inventory  := ["JavaScript", "Python", "Java", "C#", "SQL", "GDScript"]
+var skill_tree := {
+    "game":     ["Godot", "Pixel art pipelines", "Blender → sprites", "Co-op netcode"],
+    "backend":  ["Node", "Express", "Spring Boot", "Django", "Flask"],
+    "frontend": ["React", "SAPUI5"],
+    "ops":      ["AWS", "Docker", "Nginx", "Cloudflare Workers"],
+    "data":     ["MongoDB", "MySQL", "SAP S/4HANA"],
+}
+
+func _ready() -> void:
+    print("ask me about: game dev, web, APIs, tooling, weird engine bugs")
+```
+
+### 🧰 Loadout
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=godot,blender,cs,java,py,js,ts,react,nodejs,spring,docker,aws,cloudflare,mongodb,mysql,git&perline=8" />
+</p>
+
+---
+
+<div align="center">
+
+<a href="https://zyneth.de"><img src="https://img.shields.io/badge/zyneth.de-1b2a5c?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+
+<sub>⟡ press <kbd>Start</kbd> to continue ⟡</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:6b3fa0,45:1b2a5c,100:0b1026" width="100%" />
+
+</div>
